@@ -1,0 +1,15 @@
+{
+  "name": "csrbudgeting",
+  "version": "1.0.0",
+  "description": "Automatically add to the Purdue CSR website to prevent errors and issues",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Tschida",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
